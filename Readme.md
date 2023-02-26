@@ -1,7 +1,7 @@
 <p  align = "center"><img align="center" width="40%" height="auto" src="https://cdn.dribbble.com/users/870476/screenshots/11226950/media/9630cdb5a4e7a93677aba8db2043bae5.jpg?compress=1&resize=1200x900" height="175px"/></p>
 
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,I'm Bharadwaj</h1>
-<h3 align="center">A passionate Full-Stack Developer in the making from India</h3>
+<h1 align="center">  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello there, I'm Bharadwaj Bhat</h1>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 
 ## 🙋‍♂️ About Me
